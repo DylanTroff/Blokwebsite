@@ -61,6 +61,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je focus:** Ik ga mijn focus leggen op de surface plane. Ik wil de website wat iteressanter maken met animaties
 
 **Je opdracht:** https://www.ajax.nl
+- Ik heb deze website gekozen omdat ik groot fan ben van Ajax en het tof is om met deze website aan de slag te gaan.
+- Ook heb ik voor deze website gekozen omdat ik de website nu te saai vind. Daarom wil ik hem wat interessanter maken.
 
 **Screenshot(s):**
 
