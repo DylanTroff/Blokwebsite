@@ -56,13 +56,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** Ik zit qua start niveau tussen blauw en rood in.
+Mijn start-niveau zit tussen blauw en rood in
 
-**Je focus:** Ik ga mijn focus leggen op de surface plane. Ik wil de website wat iteressanter maken met animaties
+Ik wil mij gaan focussen op het leuker maken van deze site door micro-animaties toe te voegen
 
-**Je opdracht:** https://www.ajax.nl
-- Ik heb deze website gekozen omdat ik groot fan ben van Ajax en het tof is om met deze website aan de slag te gaan.
-- Ook heb ik voor deze website gekozen omdat ik de website nu te saai vind. Daarom wil ik hem wat interessanter maken.
+Ajax.nl
 
 **Screenshot(s):**
 
