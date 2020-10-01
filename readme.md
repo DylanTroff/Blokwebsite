@@ -29,8 +29,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 2 (week 5)
-
--same as voortgang 1-
+### Agenda voor meeting
+Tijdens het 2e voortgang gesprek willen wij kijken naar:
+Grid en hoe dit werkt
+Nog extra aandacht aan javascript
+En even kijken of we op schema liggen
 
 
 
@@ -45,12 +48,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -screenshot(s) van hoe ver je bent-
 
 ### Agenda voor meeting
+Tijdens het eerste voortgang gesprek willen wij kijken naar:
 
--samen met je groepje opstellen-
+Hoe je een caroussel maakt
+Wat je moet doen om je navigatie goed te positioneren
+En we zouden extra uitleg willen over het resposive maken van de website
+
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+De meeting verliep soepel en we wisten wat we wilde vragen. Ik had zelf geen directe vragen maar de vragen van de andere en de antwoorden daarop hebben mij zeker ook geholpen. 
 
 
 

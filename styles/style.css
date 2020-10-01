@@ -61,7 +61,7 @@ h1 {
 #eerste img {
     margin: 0;
     position: fixed;
-    right: -.5em;
+    right: 1em;
     width: 20%;
     top: 1.7em;
     z-index: 10;
@@ -224,6 +224,7 @@ section:nth-of-type(5){
 #fifa img{
     position: absolute;
     width: 90%;
+    
 }
 
 #fifa h2{
@@ -271,7 +272,7 @@ a{
    color: white;
 }
 
-#content img:first-of-type{
+#content section:nth-of-type(1) img:nth-of-type(1){
     position: relative;
     left: 1em;
     top: 1em;
@@ -297,10 +298,54 @@ a{
     position: relative;
     font-family: sans-serif;
     font-size: 1.2em;
-    top: 3em;
+    top: 2.5em;
     left:1em;
     width: 90%;
 }
+
+/*nico*/
+#content section:nth-of-type(1){
+    position: relative;
+    top:6em;
+
+}
+
+#content section:nth-of-type(2) img:nth-of-type(1){
+    position: absolute;
+    width: 90%;
+    left: 0em;
+    top: 14em;
+}
+
+#content h2{
+    position: absolute;
+    top: 19.5em;
+    left: 0;
+    color: black;
+    font-size: 1.8em;
+    width: 11em;
+}
+
+#content section:nth-of-type(2) p:nth-of-type(1){
+    position: absolute;
+    font-family: sans-serif;
+    width: 20em;
+    top: 37em;
+    left: 0em;
+    font-size: 1.1em;
+}
+#content section:nth-of-type(2) p:nth-of-type(2){
+    position: absolute;
+    top: 90em;
+    
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: .5em;
+    color: white;
+    background-color: #413E3E;
+    padding: .4em .2em ;
+}
+
 
 
 /* Footer*/
@@ -309,9 +354,29 @@ footer{
     position: relative;
     background-color: white;
     top: 68em;
+    
+}
+section:last-of-type{
+    position: relative;
+    left: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1em;
 }
 
 footer img{
     position: absolute;
     left: 1em;
 }
+
+
+footer li{
+    font-family: sans-serif;
+}
+
+footer article:last-of-type{
+    display: grid;
+    grid-column: span 2;
+}
+
+
