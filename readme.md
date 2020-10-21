@@ -37,7 +37,8 @@ Bij voortgang 3 had ik ten opzichte van voortgang 2, 3 nieuwe dingen die ik wou 
 * De stand
 * Het menu met de staf
 
-De slider zag er op het oog goed uit maar werkte niet. De stand heb ik uiteindelijk opgelost door een tabel te maken en deze te vullen met content. De lijst met de stafleden van Ajax heb ik gemaakt als een UL met Li's erin. 
+De slider zag er op het oog goed uit maar werkte niet. De stand heb ik uiteindelijk opgelost door een tabel te maken en deze te vullen met content. De lijst met de stafleden van Ajax heb ik gemaakt als een UL met Li's erin.
+
 <img src="images/danny_screen.png" alt="nieuwe toevoegingen" width="200"/>
 
 ### Agenda voor meeting
