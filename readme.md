@@ -41,25 +41,28 @@ En even kijken of we op schema liggen
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Na het eerste gesprek bleek dat het maken van een scrollbar makkelijker was dan ik dacht.
+Dit heb ik na het gesprek snel toegepast. Ook heb ik nog een keer gekeken naar het positioneren van de header.
+Dit was bij mij goed gelukt.
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/speler.00.png)
+
 
 
 ### Agenda voor meeting
 Tijdens het eerste voortgang gesprek willen wij kijken naar:
 
-Hoe je een caroussel maakt
-Wat je moet doen om je navigatie goed te positioneren
-En we zouden extra uitleg willen over het resposive maken van de website
+* Hoe je een caroussel maakt
+* Wat je moet doen om je navigatie goed te positioneren
+* En we zouden extra uitleg willen over het resposive maken van de website
 
 
 ### Verslag van meeting
 
-De meeting verliep soepel en we wisten wat we wilde vragen. Ik had zelf geen directe vragen maar de vragen van de andere en de antwoorden daarop hebben mij zeker ook geholpen. 
+De meeting verliep soepel en we wisten wat we wilde vragen.
+Ik had zelf geen directe vragen maar de vragen van de andere en de antwoorden daarop hebben mij zeker ook geholpen. 
 
 
 
