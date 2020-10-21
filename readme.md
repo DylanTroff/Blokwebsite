@@ -32,7 +32,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 Voor het tweede voortgangs gesprek ben ik bezig geweest met het flexboxen van mijn footer(foto 1). Dit heb ik samen met Danny tijdens de les gedaan. Ook ben ik begonnen met het maken van mijn detailpagina. Dit ziet er tot nu toe zo uit (foto 2)
 <img src="images/footer_screen.png" alt="footer" width="200"/>
-<img src="images/contentpage.png" alt="content pagina" width="200"/>
+<img src="images/content_page.png" alt="content pagina" width="200"/>
 ### Agenda voor meeting
 Tijdens het 2e voortgang gesprek willen wij kijken naar:
 * Grid en hoe dit werkt
