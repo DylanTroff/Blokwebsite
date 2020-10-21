@@ -24,10 +24,6 @@ Hieronder foto's van mijn eindresultaat. Ik heb op het einde nog fade-in animati
 
 
 
-
-
-
-
 ## Voortgang 3 (week 6)
 
 ### Stand van zaken
