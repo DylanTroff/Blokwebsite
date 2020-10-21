@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** -Dylan Troff-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -24,11 +24,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+**Screenshot(s):**
+
+
+### Agenda voor meeting
+Voor de 3e meeting heeft niemand eigenlijk specifieke vragen. We willen gewoon kijken of het goed gaat komen en of we nog wat ideeën kunnen opdoen.
 
 
 
 ## Voortgang 2 (week 5)
+### Stand van zaken
+Voor voorgang drie wil ik mij bezighouden met het afmaken van mijn detail pagina. Deze is nog niet af en dit moet echt wel goed gebeuren. Wat er nog nodig is, is het maken van een slider, tabel en een paar lijstjes. De homepagina is af op animatie na.
+
 **Screenshot(s):**
 Voor het tweede voortgangs gesprek ben ik bezig geweest met het flexboxen van mijn footer(foto 1). Dit heb ik samen met Danny tijdens de les gedaan. Ook ben ik begonnen met het maken van mijn detailpagina. Dit ziet er tot nu toe zo uit (foto 2)
 <img src="images/footer_screen.png" alt="footer" width="200"/>
