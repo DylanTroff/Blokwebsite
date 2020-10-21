@@ -31,8 +31,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 2 (week 5)
 **Screenshot(s):**
 Voor het tweede voortgangs gesprek ben ik bezig geweest met het flexboxen van mijn footer(foto 1). Dit heb ik samen met Danny tijdens de les gedaan. Ook ben ik begonnen met het maken van mijn detailpagina. Dit ziet er tot nu toe zo uit (foto 2)
-<img src="images/footer_screen.png" alt="drawing" width="200"/>
-<img src="images/contentpage_screen.png" alt="drawing" width="200"/>
+<img src="images/footer_screen.png" alt="footer" width="200"/>
+<img src="images/contentpage.png" alt="content pagina" width="200"/>
 ### Agenda voor meeting
 Tijdens het 2e voortgang gesprek willen wij kijken naar:
 * Grid en hoe dit werkt
@@ -51,7 +51,7 @@ De opdrachten gingen vaak goed en me gemakkelijk af. Tijdens het maken van de ho
 
 Voor het eerste voortgangs gesprek was ik vooral bezig met de huiswerkopdrachten. Tot toen had ik alleen nog mijn home page voor een deel klaar.
 
-<img src="images/homepage_screen.png" alt="drawing" width="200"/>
+<img src="images/homepage_screen.png" alt="homepage" width="200"/>
 
 ### Agenda voor meeting
 Tijdens het eerste voortgang gesprek willen wij kijken naar:
