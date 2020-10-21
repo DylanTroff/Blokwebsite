@@ -17,13 +17,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
+Hieronder foto's van mijn eindresultaat. Ik heb op het einde nog fade-in animaties toegevoegd die ik met afbeeldingen helaas niet kan laten zien. Ook kan ik door een klik op een knop de huistijl van website aanpassen (foto 2). Dit door een class aan de body toe te voegen. Danny begint te dansen als je over hem hovert en als je met het keyboard op de website bent dan zie je allemaal focus states die de gebruiker helpen de website te begrijpen. 
 
--screenshot(s) van je eindresultaat-
-
+<img src="images/homepage_screen.png" alt="homepage" width="200"/>
 
 
 ## Voortgang 3 (week 6)
+
 ### Stand van zaken
+
 Wat moet ik nog doen in de vakantie? 
 * States toevoegen om de website toegankelijk te maken
 * Animaties toevoegen om de website leuker/aangenamer te maken
@@ -42,6 +44,7 @@ De slider zag er op het oog goed uit maar werkte niet. De stand heb ik uiteindel
 <img src="images/danny_screen.png" alt="nieuwe toevoegingen" width="200"/>
 
 ### Agenda voor meeting
+
 Voor de 3e meeting heeft niemand eigenlijk specifieke vragen. We willen gewoon kijken of het goed gaat komen en of we nog wat ideeën kunnen opdoen.
 
 
