@@ -6,9 +6,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. -https://css-tricks.com-
+2. -https://www.w3schools.com-
+3. -https://medium.com-
+4. -De lessen-
 
 
 
