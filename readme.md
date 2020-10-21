@@ -23,9 +23,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 3 (week 6)
+### Stand van zaken
+Wat moet ik nog doen in de vakantie? 
+* States toevoegen om de website toegankelijk te maken
+* Animaties toevoegen om de website leuker/aangenamer te maken
+* Een micro-interactie maken
+
+Als ik naar dit lijstje kijk denk ik dat ik dit moet gaan redden voor het einde. Als micro-interactie wil ik de slider werkend maken of de style van de body aanpassen. Als animatie wil ik een fade-in animatie bij het opstraten van de website en ik wil iets met danny als ajaxspeler doen.
 
 **Screenshot(s):**
+Bij voortgang 3 had ik ten opzichte van voortgang 2, 3 nieuwe dingen die ik wou bespreken.
+* De slider
+* De stand
+* Het menu met de staf
 
+De slider zag er op het oog goed uit maar werkte niet. De stand heb ik uiteindelijk opgelost door een tabel te maken en deze te vullen met content. De lijst met de stafleden van Ajax heb ik gemaakt als een UL met Li's erin. 
+<img src="images/danny_screen.png" alt="nieuwe toevoegingen" width="200"/>
 
 ### Agenda voor meeting
 Voor de 3e meeting heeft niemand eigenlijk specifieke vragen. We willen gewoon kijken of het goed gaat komen en of we nog wat ideeën kunnen opdoen.
