@@ -10,11 +10,44 @@
     text-decoration: none;
 }
 
+a{
+    color: white;
+}
+
+
+body{
+    background-color: white;
+}
+
+.uitshirt body{
+    background-color: #b8d2e0;
+}
+
 header {
     background-color: #C2002F;
     position: fixed;
     height: 6em;
-    width: 24em;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+    animation: fadeIn ease-out 1s;
+}
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+        top:-6em;
+    }
+    100%{
+        opacity: 1;
+        top:0em;
+    }
+}
+
+.uitshirt header {
+    background-color: #0a2f52;
+    position: fixed;
+    height: 6em;
+    width: 100%;
     top: 0;
     z-index: 10;
 }
@@ -30,6 +63,10 @@ h1 {
     z-index: 10;
 }
 
+.uitshirt h1{
+    color: #b8d2e0;
+}
+
 #eerste li:nth-of-type(1) {
     font-size: 1.1em;
     color: white;
@@ -43,12 +80,16 @@ h1 {
     z-index: 10;
 
 }
+.uitshirt #eerste li:nth-of-type(1){
+    color:  #b8d2e0;
+    border: .1em solid  #b8d2e0;
+}
 
-#eerste a:nth-of-type(1) {
+#eerste li:nth-of-type(2) a:first-of-type {
     font-size: 1.1em;
     color: white;
     border: .1em solid white;
-    border-radius: 2em;
+    border-radius: 2em;    
     padding: .1em .5em;
 
     position: fixed;
@@ -58,21 +99,37 @@ h1 {
 
 }
 
-#eerste img {
+#eerste li:nth-of-type(2) a:first-of-type:focus{
+    text-decoration: underline;
+}
+.uitshirt #eerste li:nth-of-type(2) a:nth-of-type(1){
+    color:  #b8d2e0;
+    border: .1em solid  #b8d2e0;
+}
+
+.hamburger {
     margin: 0;
     position: fixed;
     right: 1em;
     width: 20%;
     top: 1.7em;
     z-index: 10;
+    
 
+}
+
+.hamburger:focus{
+    text-decoration: underline;
 }
 /*eerste section*/
 section:first-of-type {
     position: relative;
     top: 7em;
     height: 28em;
+    
 }
+
+
 
 #augsburg {
     position: absolute;
@@ -97,15 +154,46 @@ h2 {
 
 }
 
-#daley p:nth-of-type(1){
+
+
+.uitshirt h2{
+    color:#b8d2e0;
+}
+
+#daley a:nth-of-type(1){
     font-size: 1.2em;
     background-color: white;
+    color: black;
     padding: 0 1em;
     
     position: absolute;
     z-index: 2;
     bottom: 3em;
     left: 2em;
+    animation:linksFade ease-out 1s;
+}
+
+@keyframes linksFade{
+    0%{
+        left:0em;
+        bottom:4em;
+        transform: scale(2);
+        
+    }
+    100%{
+        left:2em;
+        bottom:3em;
+        transform: scale(1);
+    }
+}
+
+#daley a:nth-of-type(1):focus{
+    text-decoration: underline;
+}
+
+.uitshirt #daley p:nth-of-type(1){
+    color: #b8d2e0;
+    background-color: #0a2f52;
 }
 /* Tweede section*/
 section:nth-of-type(2) {
@@ -131,6 +219,10 @@ section:nth-of-type(2) {
     top: 1em;
 }
 
+.uitshirt #shop h3{
+    color: #b8d2e0;
+}
+
 #shop p:nth-of-type(1){
     position: absolute;
     color: white;
@@ -140,19 +232,49 @@ section:nth-of-type(2) {
     left: 2.6em;
 }
 
-#shop p:nth-of-type(2){
+.uitshirt #shop p:nth-of-type(1){
+    color: #b8d2e0;
+}
+
+#shop a:nth-of-type(1){
     position: absolute;
     background-color: white;
+    color: black;
     top: 9em;
     left: 2.6em;
     padding: 0 1em;
+    
+    animation:linksFadeTwee ease-out 1s;
+}
+
+@keyframes linksFadeTwee{
+    0%{
+        top:8em;
+        left: 1.6em;
+        transform: scale(2);
+    }
+    100%{
+        top:9em;
+        left: 2.6em;
+        transform: scale(1);
+    }
+}
+
+#shop a:nth-of-type(1):focus{
+    text-decoration: underline;
+}
+
+.uitshirt #shop p:nth-of-type(2){
+    color :#b8d2e0;
+    background-color: #0a2f52;
 }
 
 /*navitgatie slider*/
-#navbar ul{
+#navbar  ul{
     position: relative;
   white-space: nowrap;
     overflow-x: scroll;
+    overflow: hidden;
     top: 7em;
     
     
@@ -160,12 +282,21 @@ section:nth-of-type(2) {
 }
 
 #navbar li{
-    display: inline-block;
+    float: left;
+}
+
+#navbar li a{
+    display:inline;
     position: relative;
     width: 7em;
-    margin: 1em 0;
-    
-    left: 1em;
+    margin: 1em 1em;
+    color: black;
+    left: 0em;
+
+}
+
+#navbar li a:focus{
+    text-decoration: underline;
 
 }
 
@@ -183,14 +314,19 @@ section:nth-of-type(4){
     width: 90%;
 }
 
-#nico h2{
+#nico h2 a{
     position: absolute;
-    top: 12.5em;
-    left: 0;
+    top: 9.3em;
+    left: -1em;
     color: black;
-    font-size: 1.8em;
+    font-size: .8em;
     width: 11em;
 }
+
+#nico h2 a:focus{
+    text-decoration: underline;
+}
+
 
 #nico p:nth-of-type(1){
     position: absolute;
@@ -244,15 +380,29 @@ section:nth-of-type(5){
     font-family: sans-serif;
     
 }
+.uitshirt #fifa p:nth-of-type(1){
+    color: #b8d2e0;
+}
 
-#fifa p:nth-of-type(2){
+
+#fifa p:nth-of-type(2) a{
     position: absolute;
     background-color: white;
+    color: black;
     font-size: 1.2em;
     top: 13em;
     left: 1em;
     padding: 0 1em;
     
+}
+
+#fifa p:nth-of-type(2) a:focus{
+    text-decoration: underline;
+}
+
+.uitshirt #fifa p:nth-of-type(2){
+    color:#b8d2e0;
+    background-color: #0a2f52;
 }
 
 #fifa p:nth-of-type(3){
@@ -268,13 +418,13 @@ section:nth-of-type(5){
 }
 /* Content pagina*/
 
-a{
-   color: white;
-}
+
+
 
 
 #content section:first-of-type img:nth-of-type(1){
     position: relative;
+    width: 90%;
     left: 0em;
     top: 1em;
 }
@@ -286,13 +436,18 @@ a{
     top: 2em;
 }
 
-#content h3:nth-of-type(1){
+#content h3:nth-of-type(1) a{
     position: relative;
     font-size: 1.5em;
     width: 80%;
     top:1.5em;
     left:0em;
     line-height: 1em;
+    color: black;
+}
+
+#content h3:nth-of-type(1) a:focus{
+    text-decoration: underline;
 }
 
 #content p:nth-of-type(1){
@@ -305,9 +460,9 @@ a{
 }
 
 /*nico*/
+
 #content section:nth-of-type(1){
     position: relative;
-    top:6em;
     left:1em;
 
 }
@@ -319,26 +474,32 @@ a{
     top: 14em;
 }
 
-#content h2{
+#content section:nth-of-type(2) h2 a{
     position: absolute;
-    top: 19.5em;
-    left: 1;
+    top: 19em;
+    left: -.5em;
+    line-height: 1em;
     color: black;
-    font-size: 1.8em;
+    font-size: .7em;
     width: 11em;
 }
 
-#content section:nth-of-type(2) p:nth-of-type(1){
+#content section:nth-of-type(2) h2 a:focus{
+    text-decoration: underline;
+}
+
+#content section:nth-of-type(2) p:nth-of-type(1) {
     position: absolute;
     font-family: sans-serif;
     width: 20em;
-    top: 37em;
+    top: 38em;
     left: 1em;
     font-size: 1.1em;
+    color: black;
 }
 #content section:nth-of-type(2) p:nth-of-type(2){
     position: absolute;
-    top: 90em;
+    top: 93em;
     left:2em;
     
     font-family: sans-serif;
@@ -351,8 +512,10 @@ a{
 
 #content section:nth-of-type(3) h2{
     position: absolute;
-    top: -2em;
+    font-size: 2em;
+    top: -1em;
     left: 0em;
+    color: black;
 }
 
 #content section:nth-of-type(3){
@@ -370,6 +533,51 @@ a{
     left:3em;
 
     height: 60%;
+    
+}
+
+#content section:nth-of-type(3) img:hover{
+    position: absolute;
+    top: 3em;
+    left:3em;
+
+    height: 60%;
+    animation:dansen ease infinite 2s;
+}
+
+@keyframes dansen{
+    0%{
+        
+    }
+    10%{
+        transform: rotate(-10deg)
+    }
+    20%{
+        transform: rotate(10deg);
+    }
+    30%{
+        transform: rotate(-10deg);
+    }
+    40%{
+        transform: rotate(10deg);
+        
+    }
+    50%{
+        transform: rotate(-10deg)
+    }
+    60%{
+        transform: rotate(10deg)
+    }
+    70%{
+        transform: rotate(-10deg)
+    }
+    80%{
+        transform: rotate(10deg)
+    }
+     100%{
+        
+    }
+    
 }
 
 #content section:nth-of-type(3) p:nth-of-type(1){
@@ -430,8 +638,10 @@ tr:nth-of-type(5){
 
 #content section:nth-of-type(4) h2{
     position: relative;
-    top: 24em;
+    top: 21em;
     left: 0em;
+    font-size: 2em;
+    color: black;
 }
 
 #techstaf{
@@ -455,7 +665,7 @@ tr:nth-of-type(5){
 #content header img:nth-of-type(1) {
     margin: 0;
     position: fixed;
-    left: 18.3em;
+    left: 18em;
     width: 5%;
     top: 2em;
     z-index: 10;
@@ -472,6 +682,10 @@ tr:nth-of-type(5){
     position: absolute;
     top: 15em;
     left: 22em;
+}
+
+#content button:focus{
+    border:.5em solid white;
 }
 /* Footer*/
 
@@ -495,8 +709,13 @@ footer img{
 }
 
 
-footer li{
+footer li a{
     font-family: sans-serif;
+    color: black;
+}
+
+footer li a:focus{
+    text-decoration: underline;
 }
 
 footer article:last-of-type{

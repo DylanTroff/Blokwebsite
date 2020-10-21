@@ -1,15 +1,7 @@
 // JavaScript Document
 
-/* Waar je mee verder kan
-transitions states
-animatie; @keyframes
-mdn keyframes
-main > section > articles articles
-intro animatie
-*/
 
-
-var vooruitButton = document.querySelector('#voor');
+/*var vooruitButton = document.querySelector('#voor');
 var achteruitButton = document.querySelector('#terug');
 var slider = document.querySelector('.slider-img');
 var foto = ['speler.00', 'speler.01', 'speler.02', 'speler.03'];
@@ -35,5 +27,17 @@ function setImg(){
 
 vooruitButton.addEventListener('click' , next );
 achteruitButton.addEventListener('click' , prev );
+*/
 
 
+// Kleuren uittenue//
+
+
+var kleurButton = document.querySelector('.uitbutton');
+kleurButton.addEventListener('click' , veranderKleur );
+
+function veranderKleur(){
+    console.log('Hoop');
+    document.body.classList.toggle("uitshirt");
+    
+}
