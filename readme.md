@@ -31,9 +31,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 2 (week 5)
 ### Agenda voor meeting
 Tijdens het 2e voortgang gesprek willen wij kijken naar:
-Grid en hoe dit werkt
-Nog extra aandacht aan javascript
-En even kijken of we op schema liggen
+* Grid en hoe dit werkt
+* Nog extra aandacht aan javascript
+* En even kijken of we op schema liggen
 
 
 
@@ -47,7 +47,7 @@ Dit was bij mij goed gelukt.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/home_screen.png)
 
 
 
