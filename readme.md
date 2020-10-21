@@ -46,7 +46,7 @@ En even kijken of we op schema liggen
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
-![screenshot na mijn eerste gesprek. Homepage zo goed als af](images/homepage_screen.png)
+![screenshot na mijn eerste gesprek. Homepage zo goed als af](images/homepage_screen.png =100x20)
 
 ### Agenda voor meeting
 Tijdens het eerste voortgang gesprek willen wij kijken naar:
