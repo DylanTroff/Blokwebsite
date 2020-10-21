@@ -29,11 +29,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 2 (week 5)
+**Screenshot(s):**
+Voor het tweede voortgangs gesprek ben ik bezig geweest met het flexboxen van mijn footer(foto 1). Dit heb ik samen met Danny tijdens de les gedaan. Ook ben ik begonnen met het maken van mijn detailpagina. Dit ziet er tot nu toe zo uit (foto 2)
+<img src="images/footer_screen.png" alt="drawing" width="200"/>
 ### Agenda voor meeting
 Tijdens het 2e voortgang gesprek willen wij kijken naar:
-Grid en hoe dit werkt
-Nog extra aandacht aan javascript
-En even kijken of we op schema liggen
+* Grid en hoe dit werkt
+* Nog extra aandacht aan javascript
+* En even kijken of we op schema liggen
 
 
 
@@ -41,11 +44,11 @@ En even kijken of we op schema liggen
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+De opdrachten gingen vaak goed en me gemakkelijk af. Tijdens het maken van de homepage had ik ook weinig moeite. Alleen het plaatsen van mijn hamburger menu was een uitdaging en moest een paar keer opnieuw.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+Voor het eerste voortgangs gesprek was ik vooral bezig met de huiswerkopdrachten. Tot toen had ik alleen nog mijn home page voor een deel klaar.
 
 <img src="images/homepage_screen.png" alt="drawing" width="200"/>
 
