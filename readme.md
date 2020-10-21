@@ -46,14 +46,14 @@ En even kijken of we op schema liggen
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
-![alt text](basiswebsite/images/speler.00.png)
+![screenshot na mijn eerste gesprek. Homepage zo goed als af](images/footer_screen.png)
 
 ### Agenda voor meeting
 Tijdens het eerste voortgang gesprek willen wij kijken naar:
 
-Hoe je een caroussel maakt
-Wat je moet doen om je navigatie goed te positioneren
-En we zouden extra uitleg willen over het resposive maken van de website
+* Hoe je een caroussel maakt
+* Wat je moet doen om je navigatie goed te positioneren
+* En we zouden extra uitleg willen over het resposive maken van de website
 
 
 ### Verslag van meeting
