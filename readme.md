@@ -19,12 +19,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 Hieronder foto's van mijn eindresultaat. Ik heb op het einde nog fade-in animaties toegevoegd die ik met afbeeldingen helaas niet kan laten zien. Ook kan ik door een klik op een knop de huistijl van website aanpassen (foto 2). Dit door een class aan de body toe te voegen. Danny begint te dansen als je over hem hovert en als je met het keyboard op de website bent dan zie je allemaal focus states die de gebruiker helpen de website te begrijpen (laatste foto). 
 
-<img src="images/homepage_screen.png" alt="homepage" width="200"/><img src="images/blauw_screen.png" alt="uit homepage" width="200"/>
+<img src="images/homepage_screen.png" alt="homepage" width="200"/><img src="images/blauw_screen.png" alt="uit homepage" width="200"/><img src="images/content_page.png" alt="content pagina" width="200"/><img src="images/danny_screen.png" alt="nieuwe toevoegingen" width="200"/><img src="images/footer_screen.png" alt="footer" width="200"/><img src="images/states_screen.png" alt="states footer" width="200"/>
 
-<img src="images/content_page.png" alt="content pagina" width="200"/>
-<img src="images/danny_screen.png" alt="nieuwe toevoegingen" width="200"/>
-<img src="images/footer_screen.png" alt="footer" width="200"/>
-<img src="images/states_screen.png" alt="states footer" width="200"/>
+
+
+
+
 
 
 ## Voortgang 3 (week 6)
